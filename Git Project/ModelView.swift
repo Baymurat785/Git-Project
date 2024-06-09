@@ -10,6 +10,7 @@ import SwiftUI
 struct ModelView: View {
     var body: some View {
         Text("What are doing, bro?")
+            .foregroundStyle(.cyan)
             .foregroundStyle(.green)
     }
 }
