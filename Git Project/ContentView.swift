@@ -30,7 +30,7 @@ struct ContentView: View {
             Button(action: {
                 displayedText = inputText
             }) {
-                Text("Submit")
+                Text("DONE")
                     .padding()
                     .background(Color.blue)
                     .foregroundColor(.white)
