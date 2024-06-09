@@ -11,6 +11,7 @@
 		9075C2E02C15384C0059E2FB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9075C2DF2C15384C0059E2FB /* ContentView.swift */; };
 		9075C2E22C15384E0059E2FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9075C2E12C15384E0059E2FB /* Assets.xcassets */; };
 		9075C2E52C15384E0059E2FB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9075C2E42C15384E0059E2FB /* Preview Assets.xcassets */; };
+		9075C2EC2C153BD10059E2FB /* ModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9075C2EB2C153BD10059E2FB /* ModelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9075C2DF2C15384C0059E2FB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9075C2E12C15384E0059E2FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9075C2E42C15384E0059E2FB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9075C2EB2C153BD10059E2FB /* ModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9075C2DD2C15384C0059E2FB /* Git_ProjectApp.swift */,
 				9075C2DF2C15384C0059E2FB /* ContentView.swift */,
+				9075C2EB2C153BD10059E2FB /* ModelView.swift */,
 				9075C2E12C15384E0059E2FB /* Assets.xcassets */,
 				9075C2E32C15384E0059E2FB /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9075C2EC2C153BD10059E2FB /* ModelView.swift in Sources */,
 				9075C2E02C15384C0059E2FB /* ContentView.swift in Sources */,
 				9075C2DE2C15384C0059E2FB /* Git_ProjectApp.swift in Sources */,
 			);
